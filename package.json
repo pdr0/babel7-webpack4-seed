@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A seed for Babel 7.X and Webpack 4.X",
   "main": "index.js",
+  "repository": "https://github.com/pdr0/babel7-webpack4-seed.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --mode development --open"

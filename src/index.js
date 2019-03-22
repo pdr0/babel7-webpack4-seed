@@ -1,3 +1,3 @@
-const test = () => ({text: "hello world"});
-console.log(test())
+const foo = () => ({text : 'foo'})
 
+console.log(foo())
